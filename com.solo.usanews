@@ -1,7 +1,7 @@
 {
   "id": 1092146396,
   "name": "com.solo.usanews",
-  "listo": true,
+  "listo": false,
   "ads": "AdTapsy",
   "timeInterval": 60
 }
