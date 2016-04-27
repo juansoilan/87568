@@ -1,8 +1,50 @@
-
 {
   "id": 1092146396,
   "name": "com.solo.fashionreader",
   "listo": true,
   "ads": "AdTapsy",
-  "timeInterval": 40
+  "timeInterval": 40,
+  "content": {
+    
+    "Spain": {
+      "id": 0,
+      "items": [
+        {
+          "id": 0,
+          "name": "Blanca Suarez",
+          "url": "http://blogs.vogue.es/el-blog-de-blanca-suarez/feed/",
+          "twitter": "blancasuarezweb",
+          "instagram": "blanca_suarez"
+        },
+        {
+          "order": 1,
+          "name": "Paula Echevarria",
+          "url": "http://paula-echevarria.blogs.elle.es/feed/",
+          "twitter": "PauEchevarriaFC",
+          "instagram": "pau_eche"
+        }
+      ]
+    },
+    
+    "Usa": {
+      "id": 1,
+      "items": [
+        {
+          "id": 0,
+          "name": "Gizele Oliveira",
+          "url": "feed://gizeleagogo.blogspot.com/feeds/posts/default",
+          "twitter": "",
+          "instagram": "giizeleoliveira"
+        },
+        {
+          "id": 1,
+          "name": "The Fashion Guitar",
+          "url": " http://thefashionguitar.com/feed/",
+          "twitter": "FASHIONGUITAR",
+          "instagram": "thefashionguitar"
+        }
+      ]
+    }
+    
+  }
 }
