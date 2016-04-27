@@ -4,10 +4,11 @@
   "listo": true,
   "ads": "AdTapsy",
   "timeInterval": 40,
-  "content": {
+  "content": [
     
-    "Spain": {
+     {
       "id": 0,
+	    "name": "Spain",
       "items": [
         {
           "id": 0,
@@ -26,8 +27,9 @@
       ]
     },
     
-    "Usa": {
+     {
       "id": 1,
+	    "name": "Usa",
       "items": [
         {
           "id": 0,
@@ -46,5 +48,5 @@
       ]
     }
     
-  }
+  ]
 }
