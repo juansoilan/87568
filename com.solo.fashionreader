@@ -23,6 +23,13 @@
           "url": "http://paula-echevarria.blogs.elle.es/feed/",
           "twitter": "PauEchevarriaFC",
           "instagram": "pau_eche"
+        },
+        {
+          "order": 2,
+          "name": "Lovely Pepa",
+          "url": "http://lovely-pepa.com/feed/",
+          "twitter": "LovelyPepa",
+          "instagram": "lovelypepa"
         }
       ]
     },
