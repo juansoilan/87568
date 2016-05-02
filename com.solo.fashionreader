@@ -30,6 +30,20 @@
           "url": "http://lovely-pepa.com/feed/",
           "twitter": "LovelyPepa",
           "instagram": "lovelypepa"
+        },
+        {
+          "order": 3,
+          "name": "Amlul",
+          "url": "http://www.amlul.com/feed/",
+          "twitter": "GalaGonzalez",
+          "instagram": "GalaGonzalez"
+        },
+         {
+          "order": 4,
+          "name": "COLLAGE VINTAGE",
+          "url": "http://www.collagevintage.com/feed/",
+          "twitter": "collagevintage",
+          "instagram": "collagevintage"
         }
       ]
     },
