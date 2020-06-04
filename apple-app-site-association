@@ -1,10 +1,10 @@
 {
-    “applinks”: {
-        “apps”: [],
-        “details”: [
+    "applinks": {
+        "apps": [],
+        "details": [
             {
-                “appID”: “com.mobgen.vanlanschot.evi2”,
-                “paths”: [“*”],
+                "appID": "com.mobgen.vanlanschot.evi2",
+                "paths": ["*"],
             }
         ]
     }
