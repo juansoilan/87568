@@ -4,11 +4,11 @@
         "details": [
             {
                 "appID": "S6L44PEF74.com.vanlanschot.evi.mobiel",
-                "paths": [""/status/*""],
+                "paths": ["*", "/status/*"],
             },
             {
                 "appID": "S6L44PEF74.com.vanlanschot.compliant.mobiel",
-                "paths": [""/status/*""],
+                "paths": ["*", "/status/*"],
             }
         ]
     }
