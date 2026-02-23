@@ -93,6 +93,7 @@
 <p style="color:blue;font-size:28px;"><a href="onezurich://onezurich.zurich.com/booking/colleagues/manage">Manage tab in Colleagues tab</a></p>
 <p style="color:blue;font-size:28px;"><a href="onezurich://onezurich.zurich.com/booking/my_bookings/upcoming">Upcoming Bookings tab in My Bookings tab</a></p>
 <p style="color:blue;font-size:28px;"><a href="onezurich://onezurich.zurich.com/booking/my_bookings/past">Past Bookings tab in My Bookings tab</a></p>
+<p style="color:blue;font-size:28px;"><a href="onezurich://onezurich.zurich.com/redirect/booking/my_bookings">My Bookings redirect</a></p>
 
 <br> <br>
   
@@ -101,6 +102,9 @@
 <p style="color:blue;font-size:28px;"><a href='' onclick="this.href='onezurich://onezurich.zurich.com/news/article/'+document.getElementById('news_id').value">News article</a></p>
 <input type="text" id="booking_id" value="${item.value}"/>
 <p style="color:blue;font-size:28px;"><a href='' onclick="this.href='onezurich://onezurich.zurich.com/booking/my_bookings/'+document.getElementById('booking_id').value">Booking details</a></p>
+<br> <br>
+<input type="text" id="my_bookings_booking_id" value="${item.value}"/>
+<p style="color:blue;font-size:28px;"><a href='' onclick="this.href='onezurich://onezurich.zurich.com/redirect/booking/my_bookings/'+document.getElementById('my_bookings_booking_id').value">My Bookings redirect</a></p>
 <br> <br>
 
 <h2>RAP</h2> 
